@@ -1,16 +1,20 @@
 # Note App
-
 Notes app (both frontend and backend) created with **flutter and firebase**.
+
+**Show some love❤️ and star the repo to support the project.**
+
 
 ## Installation
 
-Get apk file from folder named apk_folder.
+Get apk file from folder named [apk_folder](https://github.com/osamajaved07/Notes-App/tree/master/apk_folder).
 
 
-## Getting Started
+## Features
+- Add **notes**.
+- Edit your **notes**.
+- Delete your **notes**.
 
-This project is a starting point for a Flutter application.
-
+  
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
