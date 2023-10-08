@@ -1,6 +1,11 @@
-## Note App
+# Note App
 
-A new Flutter project.
+Notes app (both frontend and backend) created with **flutter and firebase**.
+
+## Installation
+
+Get apk file from folder named apk_folder.
+
 
 ## Getting Started
 
