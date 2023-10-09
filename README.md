@@ -17,7 +17,7 @@ Get the APK file from the [apk_folder](https://github.com/osamajaved07/Notes-App
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/osamajaved07/Notes-App/assets/143210389/1149c2c2-12c7-402b-b060-c8fadbef757a" alt="ss1" width="200"/>
+      <img src="https://github.com/osamajaved07/Notes-App/assets/143210389/6f53f1f0-f670-4fd0-8c51-4648f5e5257d" alt="ss1" width="200"/>
       <p>Splash Screen</p>
     </td>
     <td align="center">
