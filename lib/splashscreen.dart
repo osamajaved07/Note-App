@@ -21,7 +21,7 @@ class splashcreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Notes App',
+              'Note App',
               style: TextStyle(
                 color: Color(0xFF5E3E33),
                 fontSize: 36,
