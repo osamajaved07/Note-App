@@ -13,6 +13,14 @@ Get the APK file from the [apk_folder](https://github.com/osamajaved07/Notes-App
 - Edit your **notes**.
 - Delete your **notes**.
 
+## Video Demo
+[**Demo video**](https://github.com/osamajaved07/Note-App/assets/143210389/e1d51017-5640-4bd1-8ddf-242840bf56f7)
+
+
+
+
+
+
 ## Screenshots
 <table>
   <tr>
