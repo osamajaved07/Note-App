@@ -8,6 +8,7 @@ Notes app (both frontend and backend) created with **flutter and firebase**.
 Get the APK file from the [apk_folder](https://github.com/osamajaved07/Notes-App/tree/master/apk_folder).
 
 ## Features
+"Tired of forgetting information and getting lost in a mess of sticky notes? Refresh the way you keep track with Notes App. A simple tool for creating, editing, or deleting notes with just a few clicks. It's your memory aid, always at your fingertips. Give a try now and experience an organized way of managing notes."
 - Add **notes**.
 - Edit your **notes**.
 - Delete your **notes**.
